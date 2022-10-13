@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @svnszn
 - 👀 I’m interested in all things tech
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning front end dev
 - 💞️ I’m looking to collaborate on any/everything
 - 📫 How to reach me @svnszn
 
